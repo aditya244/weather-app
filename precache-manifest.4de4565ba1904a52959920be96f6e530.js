@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0f969aa5fbf54cc3be7afa5a3325a9c",
+    "revision": "952c09fb570f3004fd92befe12b5e2cc",
     "url": "/weather-app/index.html"
   },
   {
